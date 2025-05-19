@@ -1,3 +1,4 @@
+0
 https://github.com/xoxokhi/libselinux-android/blob/master/library%2Fsrc%2Fmain%2Fjava%2Fme%2Fzhanghai%2Fandroid%2Flibselinux%2FSeLinux.java/*
  * Copyright (c) 2019 Hai Zhang <dreaming.in.code.zh@gmail.com>
  * All Rights Reserved.
